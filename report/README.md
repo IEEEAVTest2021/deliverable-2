@@ -1,5 +1,4 @@
-Please submit the following two items to this folder:
-1. A (written) simulation test report, which documents the generated test scenarios, classes, scripting methods, simulation test coverage, and problem findings. Sample structure of the simulation test report (for reference only):
+Please submit a (written) simulation test report, which documents the generated test scenarios, classes, scripting methods, simulation test coverage, and problem findings. Sample structure of the simulation test report (for reference only):
   * Section 1 Introduction
     * Test organization and roles
     * Challenge strategy and planning
@@ -16,4 +15,3 @@ Please submit the following two items to this folder:
     *  Discovered problems and statistics
   * Section 4 Summary and Experience 
    
-3. A presentation deck presenting the scenarios included in Deliverable #2. 
