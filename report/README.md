@@ -1,4 +1,4 @@
-Please submit a (written) simulation test report, which documents the generated test scenarios, classes, scripting methods, simulation test coverage, and problem findings. Sample structure of the simulation test report (for reference only):
+A (written) simulation test report, which documents the generated test scenarios, classes, scripting methods, simulation test coverage, and problem findings. Sample structure of the simulation test report (for reference only):
   * Section 1 Introduction
     * Test organization and roles
     * Challenge strategy and planning
