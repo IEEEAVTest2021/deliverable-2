@@ -9,9 +9,9 @@ Please submit a (written) simulation test report, which documents the generated 
     * Used methods/apporaches
     * Supporting technology and tools
   * Section 3 AV Simulation Test Results
-    *  Established AV simulation test requirements based on scenarios
+    * Established AV simulation test requirements based on scenarios
     * Focused scenario classes and divesity 
-    * Scenario script statistics and distribution based on scenario types
-    *  Discovered problems and statistics
+    * Statistics and distribution report about executive scenarios and scripts for different classified scenario types (or classes)
+    * Discovered problems and statistics
   * Section 4 Summary and Experience 
    
